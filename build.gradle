@@ -20,6 +20,9 @@ subprojects {
     apply plugin: "maven"
     apply plugin: "idea"
 
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+
     repositories {
         mavenLocal()
         maven {
