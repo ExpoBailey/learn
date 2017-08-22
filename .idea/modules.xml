@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-api.iml" group="dubbo-demo-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_main.iml" group="dubbo-demo-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_test.iml" group="dubbo-demo-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-provider.iml" group="dubbo-demo-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_main.iml" group="dubbo-demo-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_test.iml" group="dubbo-demo-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-dubbo-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-dubbo-parent.iml" />
+    </modules>
+  </component>
+</project>

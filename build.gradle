@@ -1,0 +1,34 @@
+group 'com.minstone.mobile.parent'
+version '1.0.0'
+
+subprojects {
+    buildscript {
+        repositories {
+            mavenLocal()
+            maven {
+                url 'http://maven.aliyun.com/nexus/content/groups/public/'
+            }
+            mavenCentral()
+            jcenter()
+        }
+        dependencies {
+            classpath "org.springframework.boot:spring-boot-gradle-plugin:1.5.3.RELEASE"
+        }
+    }
+
+    apply plugin: "java"
+    apply plugin: "maven"
+    apply plugin: "idea"
+
+    repositories {
+        mavenLocal()
+        maven {
+            url 'http://maven.aliyun.com/nexus/content/groups/public/'
+        }
+        mavenCentral()
+        jcenter()
+    }
+
+}
+
+
