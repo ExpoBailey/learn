@@ -1,0 +1,14 @@
+spring:
+  dubbo:
+    scan: com.minstone.mobile.demo.service.impl
+    application:
+      name: consumer
+    registry:
+      protocol: "zookeeper"
+      # 多注册中心配置
+      address: "192.168.0.168:2181,127.0.0.1:2181"
+  main:
+    banner-mode: "off"
+#  devtools:
+#    restart:
+#      trigger-file: .trigger

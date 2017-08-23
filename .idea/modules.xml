@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoWeb.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoWeb.iml" group="DemoWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoWeb/DemoWeb_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoWeb/DemoWeb_main.iml" group="DemoWeb" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DemoWeb/DemoWeb_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DemoWeb/DemoWeb_test.iml" group="DemoWeb" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-api.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-api.iml" group="dubbo-demo-api" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_main.iml" group="dubbo-demo-api" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-api/dubbo-demo-api_test.iml" group="dubbo-demo-api" />
