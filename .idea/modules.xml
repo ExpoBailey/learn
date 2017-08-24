@@ -11,6 +11,12 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-provider.iml" group="dubbo-demo-provider" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_main.iml" group="dubbo-demo-provider" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-demo-provider/dubbo-demo-provider_test.iml" group="dubbo-demo-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-test-api.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-test-api.iml" group="dubbo-test-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-test-api/dubbo-test-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-test-api/dubbo-test-api_main.iml" group="dubbo-test-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-test-api/dubbo-test-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-test-api/dubbo-test-api_test.iml" group="dubbo-test-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-test-provider.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-test-provider.iml" group="dubbo-test-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-test-provider/dubbo-test-provider_main.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-test-provider/dubbo-test-provider_main.iml" group="dubbo-test-provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/dubbo-test-provider/dubbo-test-provider_test.iml" filepath="$PROJECT_DIR$/.idea/modules/dubbo-test-provider/dubbo-test-provider_test.iml" group="dubbo-test-provider" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-dubbo-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-dubbo-parent.iml" />
     </modules>
   </component>

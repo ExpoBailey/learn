@@ -14,6 +14,8 @@
             <option value="$PROJECT_DIR$/DemoWeb" />
             <option value="$PROJECT_DIR$/dubbo-demo-api" />
             <option value="$PROJECT_DIR$/dubbo-demo-provider" />
+            <option value="$PROJECT_DIR$/dubbo-test-api" />
+            <option value="$PROJECT_DIR$/dubbo-test-provider" />
           </set>
         </option>
         <option name="useAutoImport" value="true" />

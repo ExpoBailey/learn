@@ -3,6 +3,7 @@ package com.minstone.mobile.demo.service.impl;
 import com.alibaba.dubbo.config.annotation.Reference;
 import com.minstone.mobile.demo.service.IDemoApi;
 import com.minstone.mobile.demo.service.IDemoService;
+import com.minstone.mobile.test.service.ITestApi;
 import org.springframework.stereotype.Service;
 
 /**
@@ -21,8 +22,16 @@ public class DemoServiceImpl implements IDemoService{
     @Reference(version = "1.0.0")
     private IDemoApi demoApi;
 
+    @Reference(version = "1.0.0")
+    private ITestApi testApi;
+
     @Override
     public String hello() {
         return demoApi.sayHello();
+    }
+
+    @Override
+    public String say() {
+        return testApi.sayHello();
     }
 }

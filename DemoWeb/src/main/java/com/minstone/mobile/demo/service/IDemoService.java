@@ -13,4 +13,6 @@ package com.minstone.mobile.demo.service;
 public interface IDemoService {
 
     String hello();
+
+    String say();
 }

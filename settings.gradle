@@ -2,4 +2,6 @@ rootProject.name = 'springboot-dubbo-parent'
 include 'dubbo-demo-provider'
 include 'dubbo-demo-api'
 include 'DemoWeb'
+include 'dubbo-test-api'
+include 'dubbo-test-provider'
 

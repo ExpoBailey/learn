@@ -28,4 +28,9 @@ public class DemoController {
     public String hello() {
         return demoService.hello();
     }
+
+    @RequestMapping("/say")
+    public String say() {
+        return demoService.say();
+    }
 }

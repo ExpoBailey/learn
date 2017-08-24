@@ -11,6 +11,10 @@
       <module name="dubbo-demo-api_test" target="1.8" />
       <module name="dubbo-demo-provider_main" target="1.8" />
       <module name="dubbo-demo-provider_test" target="1.8" />
+      <module name="dubbo-test-api_main" target="1.8" />
+      <module name="dubbo-test-api_test" target="1.8" />
+      <module name="dubbo-test-provider_main" target="1.8" />
+      <module name="dubbo-test-provider_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

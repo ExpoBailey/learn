@@ -17,6 +17,7 @@
     <orderEntry type="module" module-name="DemoWeb_main" />
     <orderEntry type="library" name="Gradle: io.dubbo.springboot:spring-boot-starter-dubbo:1.0.0" level="project" />
     <orderEntry type="module" module-name="dubbo-demo-api_main" />
+    <orderEntry type="module" module-name="dubbo-test-api_main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-web:1.5.3.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:1.5.3.RELEASE" level="project" />
